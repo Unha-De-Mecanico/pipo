@@ -1,0 +1,43 @@
+header{
+    background: rgb(88, 0, 88);
+    height: 250px;
+    padding: 30px;
+    text-align: center;
+    
+    font-size: 40px;
+    font-family: monospace;
+    color: aliceblue;
+}
+.med{
+    background: rgb(0,0,0);
+    background: linear-gradient(52deg, rgba(0,0,0,1) 0%, rgba(207,36,186,1) 53%, rgba(145,6,186,1) 100%);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 600px;;
+}
+.esquerda{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: aliceblue;
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+    color: black
+}
+
+button{
+    background-color: rgb(218, 30, 255);
+    border: none;
+    padding: 15px;
+    width: %;
+    
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    
+}
+button:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
